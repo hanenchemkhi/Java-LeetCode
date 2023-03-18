@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c789514-8134-4615-ad26-96d01e15eac5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/src/DesignBrowserHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/SortColors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DesignBrowserHistory">
+  <component name="RunManager" selected="Application.SortColors">
     <configuration name="ArrayForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayForm" />
       <module name="easy" />
@@ -64,8 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortColors" />
+      <module name="medium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortColors" />
         <item itemvalue="Application.DesignBrowserHistory" />
         <item itemvalue="Application.ArrayForm" />
       </list>
@@ -83,7 +89,7 @@
       <workItem from="1678835411359" duration="110000" />
       <workItem from="1678835878114" duration="593000" />
       <workItem from="1678883134227" duration="6000" />
-      <workItem from="1679159519574" duration="5054000" />
+      <workItem from="1679159519574" duration="6880000" />
     </task>
     <servers />
   </component>
