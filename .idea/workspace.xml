@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c789514-8134-4615-ad26-96d01e15eac5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/medium/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/PalindromeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +98,7 @@
       <workItem from="1678835878114" duration="593000" />
       <workItem from="1678883134227" duration="6000" />
       <workItem from="1679159519574" duration="7530000" />
-      <workItem from="1679353523845" duration="7021000" />
+      <workItem from="1679353523845" duration="8037000" />
     </task>
     <servers />
   </component>
