@@ -23,6 +23,9 @@ public class ZigzagConversion {
                d) If direction is 'down', do row++.  Else do row--.
             4) One by one print all strings of arr[].
              */
+
+            if(numRows==1){return s;}
+
             String[] arr= new String[numRows];
 
             Arrays.fill(arr, "");
@@ -31,6 +34,7 @@ public class ZigzagConversion {
             int n = s.length();
 
             for (int i = 0; i <n ; i++) {
+                //arr[row]=arr[row]+s.charAt(i);
                 arr[row]+=s.charAt(i);
                 if(row == numRows-1){
                     down = false;

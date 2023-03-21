@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c789514-8134-4615-ad26-96d01e15eac5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/medium/src/ZigzagConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/ZigzagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/ZigzagConversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ZigzagConversion" />
-        <item itemvalue="Application.LongestPalindrome" />
         <item itemvalue="Application.SortColors" />
         <item itemvalue="Application.DesignBrowserHistory" />
         <item itemvalue="Application.ArrayForm" />
@@ -106,22 +105,12 @@
       <workItem from="1678835878114" duration="593000" />
       <workItem from="1678883134227" duration="6000" />
       <workItem from="1679159519574" duration="7530000" />
-      <workItem from="1679353523845" duration="14622000" />
+      <workItem from="1679353523845" duration="14796000" />
+      <workItem from="1679423743278" duration="544000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/medium/src/ZigzagConversion.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
