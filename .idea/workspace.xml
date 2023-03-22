@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c789514-8134-4615-ad26-96d01e15eac5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/medium/src/ReverseInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/ZigzagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/ZigzagConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/medium/ZigzagConversion$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/medium/ZigzagConversion$Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ZigzagConversion">
+  <component name="RunManager" selected="Application.ReverseInteger">
     <configuration name="ArrayForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayForm" />
       <module name="easy" />
@@ -62,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseInteger" />
       <module name="medium" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.ZigzagConversion" />
         <item itemvalue="Application.SortColors" />
         <item itemvalue="Application.DesignBrowserHistory" />
@@ -106,7 +108,8 @@
       <workItem from="1678883134227" duration="6000" />
       <workItem from="1679159519574" duration="7530000" />
       <workItem from="1679353523845" duration="14796000" />
-      <workItem from="1679423743278" duration="544000" />
+      <workItem from="1679423743278" duration="1295000" />
+      <workItem from="1679491593617" duration="5899000" />
     </task>
     <servers />
   </component>
