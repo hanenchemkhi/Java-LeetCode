@@ -46,22 +46,15 @@ public class MovieClass {
 
                 inputStreamReader = new InputStreamReader(connection.getInputStream());
                 reader = new BufferedReader(inputStreamReader);
-
                     while ((inputLine = reader.readLine()) != null) {
                         jsonResponse = gson.fromJson(inputLine, JsonObject.class);
+                        //System.out.println(jsonResponse);
 
                         page = jsonResponse.get("page").getAsInt();
                         totalPages = jsonResponse.get("total_pages").getAsInt();
 
                         data= jsonResponse.getAsJsonArray("data");
-
-                        for (JsonElement e : data) {
-                            title = e.getAsJsonObject().get("Title").getAsString();
-                            if (title.contains(substr)) {
-                                count++;
-                            }
-                        }
-
+                        count+= data.size();
                     }
                 page++;
             }while (page < totalPages);

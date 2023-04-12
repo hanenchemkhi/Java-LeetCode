@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c789514-8134-4615-ad26-96d01e15eac5" name="Changes" comment="&quot;updates&quot;">
-      <change afterPath="$PROJECT_DIR$/easy/src/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/Playing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/MovieClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/MovieClassTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medium/medium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/medium/medium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/SortColors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/ZigzagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/ZigzagConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/easy/SumSubArray$Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/easy/SumSubArray$Solution1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/medium/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/MovieClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/MovieClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/medium/main/java/MovieClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/medium/main/java/MovieClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/hanen/Downloads/gson-2.10.1.jar",
+    "last_opened_file_path": "C:/Users/hanen/coding/perscholas/leetcode/Java-LeetCode/medium/gson-2.10.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,17 +59,26 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hanen\coding\perscholas\leetcode\Java-LeetCode\medium\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.MovieClass">
-    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GCD" />
-      <module name="easy" />
+    <configuration name="MovieClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.MovieClass" />
+      <module name="medium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.MovieClass" />
+    <configuration name="MovieClassTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.MovieClassTwo" />
       <module name="medium" />
       <extension name="coverage">
         <pattern>
@@ -113,10 +114,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MovieClass" />
+        <item itemvalue="Application.MovieClassTwo" />
         <item itemvalue="Application.Playing (1)" />
         <item itemvalue="Application.Playing" />
         <item itemvalue="Application.SumSubArray" />
-        <item itemvalue="Application.GCD" />
       </list>
     </recent_temporary>
   </component>
