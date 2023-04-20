@@ -2,24 +2,15 @@ package main.java;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
-import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
 import java.net.URI;
-import java.net.URL;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.time.Duration;
 import java.time.temporal.ChronoUnit;
 import java.util.Scanner;
-import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.ExecutionException;
-
 public class MovieClassTwo {
 
 
@@ -32,6 +23,7 @@ public class MovieClassTwo {
 
     }
     public static int getNumberOfMovies(String substr) throws IOException {
+        //Method 2: Using Java 11 HttpClient
         int count =0;
         int page = 1;
         int totalPages = 1;

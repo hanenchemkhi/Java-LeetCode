@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c789514-8134-4615-ad26-96d01e15eac5" name="Changes" comment="&quot;updates&quot;">
-      <change afterPath="$PROJECT_DIR$/medium/src/main/java/MovieClassTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/FirstIndexOfSubString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/medium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/medium/medium.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medium/src/main/java/MovieClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/MovieClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/medium/main/java/MovieClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/medium/main/java/MovieClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/src/main/java/MovieClassTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/MovieClassTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,25 +36,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/hanen/coding/perscholas/leetcode/Java-LeetCode/medium/gson-2.10.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hanen/coding/perscholas/leetcode/Java-LeetCode/medium/gson-2.10.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hanen\coding\perscholas\leetcode\Java-LeetCode\medium\src" />
@@ -63,7 +63,14 @@
       <recent name="main.java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MovieClass">
+  <component name="RunManager" selected="Application.AddBinary">
+    <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddBinary" />
+      <module name="easy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MovieClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.MovieClass" />
       <module name="medium" />
@@ -104,20 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumSubArray" />
-      <module name="easy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MovieClass" />
+        <item itemvalue="Application.AddBinary" />
         <item itemvalue="Application.MovieClassTwo" />
+        <item itemvalue="Application.MovieClass" />
         <item itemvalue="Application.Playing (1)" />
         <item itemvalue="Application.Playing" />
-        <item itemvalue="Application.SumSubArray" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +185,11 @@
           <url>file://$PROJECT_DIR$/easy/src/Playing.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easy/src/AddBinary.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

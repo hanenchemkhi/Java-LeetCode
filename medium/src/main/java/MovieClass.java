@@ -22,6 +22,7 @@ public class MovieClass {
 
     }
     public static int getNumberOfMovies(String substr) throws IOException {
+        //Method 1: Using java.net.HttpURLConnection
         int count =0;
         int page = 1;
         int totalPages = 1;
@@ -32,7 +33,6 @@ public class MovieClass {
         HttpURLConnection connection = null;
         JsonObject jsonResponse;
         JsonArray data;
-        String title;
         String inputLine;
         Gson gson = new Gson();
 
@@ -57,15 +57,14 @@ public class MovieClass {
                         count+= data.size();
                     }
                 page++;
+                inputStreamReader.close();
+                reader.close();
             }while (page < totalPages);
-
 
 
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
-            inputStreamReader.close();
-            reader.close();
             connection.disconnect();
         }
 
