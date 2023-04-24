@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c789514-8134-4615-ad26-96d01e15eac5" name="Changes" comment="&quot;updates&quot;">
-      <change afterPath="$PROJECT_DIR$/easy/src/AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/src/FirstIndexOfSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/src/LastStoneWeight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/MovieClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/MovieClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/src/main/java/MovieClassTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/medium/src/main/java/MovieClassTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +60,16 @@
       <recent name="main.java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddBinary">
+  <component name="RunManager" selected="Application.LastStoneWeight">
     <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddBinary" />
+      <module name="easy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LastStoneWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LastStoneWeight" />
       <module name="easy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,20 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Playing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Playing" />
-      <module name="medium" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastStoneWeight" />
         <item itemvalue="Application.AddBinary" />
         <item itemvalue="Application.MovieClassTwo" />
         <item itemvalue="Application.MovieClass" />
         <item itemvalue="Application.Playing (1)" />
-        <item itemvalue="Application.Playing" />
       </list>
     </recent_temporary>
   </component>
@@ -187,8 +184,8 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/easy/src/AddBinary.java</url>
-          <line>20</line>
+          <url>file://$PROJECT_DIR$/easy/src/LastStoneWeight.java</url>
+          <line>15</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
