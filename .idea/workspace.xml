@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c789514-8134-4615-ad26-96d01e15eac5" name="Changes" comment="&quot;updates&quot;">
-      <change afterPath="$PROJECT_DIR$/easy/src/LastStoneWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/src/main/java/ContinuousSubArraySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hanen/coding/perscholas/leetcode/Java-LeetCode/medium/gson-2.10.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hanen/Downloads/Ex_Files_Rest_APIs_Java/Ex_Files_Rest_APIs_Java/Exercise Files/consuming_apis_02_06_challenge&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -60,10 +60,23 @@
       <recent name="main.java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LastStoneWeight">
+  <component name="RunManager" selected="Application.ContinuousSubArraySum">
     <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddBinary" />
       <module name="easy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ContinuousSubArraySum" />
+      <module name="medium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,20 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Playing (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Playing" />
-      <module name="easy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContinuousSubArraySum" />
         <item itemvalue="Application.LastStoneWeight" />
         <item itemvalue="Application.AddBinary" />
         <item itemvalue="Application.MovieClassTwo" />
         <item itemvalue="Application.MovieClass" />
-        <item itemvalue="Application.Playing (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -182,11 +188,6 @@
           <url>file://$PROJECT_DIR$/easy/src/Playing.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/easy/src/LastStoneWeight.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
